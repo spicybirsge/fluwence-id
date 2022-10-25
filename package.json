@@ -1,0 +1,26 @@
+{
+  "name": "fluwence-id",
+  "version": "2022.10.25",
+  "description": "Generate Random IDs with varities like URL Friendly IDs, Number IDs, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "id",
+    "ids",
+    "numbers",
+    "characters",
+    "url-friendly"
+  ],
+  "author": "fluwence",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluwence/fluwence-id.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fluwence/fluwence-id/issues"
+  },
+  "homepage": "https://github.com/fluwence/fluwence-id#readme"
+}
