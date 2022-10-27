@@ -154,8 +154,7 @@ const URL_FRIENDLY = [
     '8',
     '9',
     '-',
-    '_',
-    '.'
+    '_'
 ];
 
 const NUMBERS = [
